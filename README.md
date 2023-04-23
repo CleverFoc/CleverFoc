@@ -7,7 +7,7 @@
 
 CleverFoc 是一个开源的 FOC 控制库，使用 C 语言编写，不依赖任何第三方库，可以轻松的在不同的 MCU 上移植。
 
-CleverFoc 支持以下特性:
+CleverFoc 拥有以下特性:
 
 ### 针对使用者
 
