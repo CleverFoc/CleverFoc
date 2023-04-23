@@ -1,12 +1,11 @@
 #include "acutest.h"
 #include "acutest_ext.h"
 
-void test_example(void)
-{
+#include "test_list.h"
 
-}
+
 
 TEST_LIST = {
-    {"example", test_example},
+    {"CleverFoc List", test_list},
     {NULL, NULL} /* zeroed record marking the end of the list */
 };
