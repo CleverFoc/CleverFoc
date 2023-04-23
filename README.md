@@ -1,5 +1,8 @@
 # CleverFoc —— 开源的 FOC 控制库
 
+[![Static Analysis](https://github.com/CleverFoc/CleverFoc/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/CleverFoc/CleverFoc/actions/workflows/cppcheck.yml)
+[![Unit testing](https://github.com/CleverFoc/CleverFoc/actions/workflows/code_test.yml/badge.svg)](https://github.com/CleverFoc/CleverFoc/actions/workflows/code_test.yml)
+
 ## 1. 简介
 
 CleverFoc 是一个开源的 FOC 控制库，使用 C 语言编写，不依赖任何第三方库，可以轻松的在不同的 MCU 上移植。
